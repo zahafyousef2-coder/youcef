@@ -1,0 +1,12 @@
+flask
+google-api-python-client
+google_play_scraper
+psutil
+PyJWT
+protobuf_decoder
+pycryptodome
+pytz
+aiohttp
+cfonts
+telebot
+python-telegram-bot
